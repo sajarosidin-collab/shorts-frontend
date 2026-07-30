@@ -1,0 +1,13 @@
+{
+  "name": "Shorts Automation",
+  "short_name": "Shorts",
+  "description": "Paste link YouTube, otomatis jadi Shorts",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#ec4899",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
